@@ -21,3 +21,5 @@
   <li>3 - Não solicitamos dados internos como R.A ou outros de identificação interna, então por-favor não nos forneça, issues com informações pessoais serão excluídas</li>
   <li>4 - Ao abrir uma issue solicitando o convite vamos analisar seus dados de desenvolvedor públicos presentes no seu github ou LinkedIn para verificar se você é um estudante e se você utiliza o github profissionalmente antes de enviar-lhe um convite.</li>
 </ul>
+
+<p>Após aceito, mude a visibilidade da organização, utilizando a aba "pessoas" para público para que a organização seja exibida no seu perfil do github.(<a href="https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership">Documentação de ajuda oficial</a>)</p>
